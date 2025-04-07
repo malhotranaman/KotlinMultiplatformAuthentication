@@ -1,4 +1,4 @@
-#README
+# README
 ## Report of Code Generation Process:
 
 ## AI-Generated vs. Manual Implementation
